@@ -1,4 +1,4 @@
-﻿namespace MYGBLIst.DTO
+﻿namespace CompetitionManagement.DTO
 {
     public class LinkDTO
     {
